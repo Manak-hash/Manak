@@ -181,4 +181,4 @@ Comparator of Broadband Deals/
 - Integrate a newsletter.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Manak Fake License.
