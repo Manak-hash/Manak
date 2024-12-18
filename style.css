@@ -332,3 +332,19 @@ input[type="range"]::-webkit-slider-thumb {
     min-width: 100%;
   }
 }
+@media (max-width: 375px) {
+  .card {
+    max-width: 275px;
+  }
+  .card img {
+    height: 275px;
+  }
+}
+@media (min-width: 2560px) {
+  .card {
+    max-width: 500px;
+  }
+  .card img {
+    height: 500px;
+  }
+}
