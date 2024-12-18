@@ -1,7 +1,7 @@
 # Broadband Deals Comparator
 
 ## Project Overview
-The Broadband Deals Comparator is a web application designed to help users compare broadband deals offered by the top three providers in Morocco: Maroc Telecom, Orange, and Inwi. The website presents deal information in a user-friendly format, allowing users to filter and sort deals based on their preferences.
+The Broadband Deals Comparator is a web application designed to help users compare broadband deals offered by the top three providers in Morocco: Maroc Telecom, Orange, and Inwi. The website presents deal information in a user-friendly format, allowing users to filter and sort deals based on their prices.
 
 ## Features
 - **Provider Comparison**: View broadband deals from Maroc Telecom, Orange, and Inwi in one place.
